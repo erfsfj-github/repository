@@ -1,6 +1,6 @@
 package com.gcase.annotation;
 
-import org.example.RpcRequest;
+import com.gcase.RpcRequest;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;
 

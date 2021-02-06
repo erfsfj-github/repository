@@ -1,6 +1,6 @@
 package com.gcase.normal;
 
-import org.example.RpcRequest;
+import com.gcase.RpcRequest;
 
 import java.io.IOException;
 import java.io.ObjectInputStream;

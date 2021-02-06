@@ -1,6 +1,6 @@
 package com.gcase.normal;
 
-import org.example.IOrderService;
+import com.gcase.IOrderService;
 
 /**
  * Hello world!

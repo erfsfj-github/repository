@@ -1,6 +1,6 @@
 package com.gcase.annotation;
 
-import org.example.IOrderService;
+import com.gcase.IOrderService;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
