@@ -1,6 +1,5 @@
 package com.gcase;
 
-import com.gcase.IOrderService;
 
 //3、发布服务的实现类
 @CusRemoteService
