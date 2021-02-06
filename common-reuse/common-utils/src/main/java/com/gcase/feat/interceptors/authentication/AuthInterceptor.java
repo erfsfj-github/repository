@@ -1,4 +1,4 @@
-package com.gcase.feat.interceptors;
+package com.gcase.feat.interceptors.authentication;
 
 import com.gcase.middleware.redis.constant.RedisTime;
 import com.gcase.utils.http.HttpKey;
@@ -17,7 +17,7 @@ import java.util.concurrent.TimeUnit;
 //</dependency>
 /**
  * <p>
- *
+ * 拦截器实现 token 认证
  * <p>
  *
  * @creator bicheng.deng

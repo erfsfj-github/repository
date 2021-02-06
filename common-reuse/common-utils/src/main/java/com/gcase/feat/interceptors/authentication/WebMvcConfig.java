@@ -1,4 +1,4 @@
-package com.gcase.feat.interceptors;
+package com.gcase.feat.interceptors.authentication;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -7,7 +7,7 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 
 /**
  * <p>
- *
+ * 拦截器注册
  * <p>
  *
  * @creator bicheng.deng
