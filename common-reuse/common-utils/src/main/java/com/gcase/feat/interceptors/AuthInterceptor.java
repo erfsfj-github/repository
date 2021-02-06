@@ -1,7 +1,7 @@
 package com.gcase.feat.interceptors;
 
-import com.erfsfj.middleware.redis.constant.RedisTime;
-import com.erfsfj.utils.http.HttpKey;
+import com.gcase.middleware.redis.constant.RedisTime;
+import com.gcase.utils.http.HttpKey;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.redis.core.RedisTemplate;
 import org.springframework.web.servlet.HandlerInterceptor;
