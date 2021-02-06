@@ -2,7 +2,7 @@
 /shelf/
 /workspace.xml
 ../**/target/
-
+*.iml
 
 # Compiled class file
 *.class
